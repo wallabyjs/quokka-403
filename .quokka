@@ -1,0 +1,5 @@
+{
+  "babel": true,
+  "plugins": ["jsdom-quokka-plugin"],
+  "jsdom": {"file": "test.html"}
+}
